@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **PyTorch, Python, Ultralytics, Pandas, Numpy**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Bachelors of technology in Artificial intelligence and Machine learning from Vivekananda Institute of Professional Studies**
 
 - ☁️ I've keen interest in Machine learning. So,I'm learning **PyTorch**
 
