@@ -38,8 +38,6 @@
 
 <!--Intro end-->
 
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
