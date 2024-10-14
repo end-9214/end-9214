@@ -1,115 +1,76 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Karamveer Singh</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">“Machine learning is the science of getting computers to act without being explicitly programmed.” - Andrew Ng</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **PyTorch, Python, Ultralytics, Pandas, Numpy**
-
-- 🌱 I’m currently learning **Bachelors of technology in Artificial intelligence and Machine learning from Vivekananda Institute of Professional Studies**
-
-- ☁️ I've keen interest in Machine learning. So,I'm learning **PyTorch**
-
-- 💬 Ask me about **PyTorch, Python, Ultralytics, Pandas, Numpy**
-
-- 📫 Feel free to reach me out **karamveersingh2003111@gmail.com**
-
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
+<!-- Stylish Header with Name -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00A4EF">Karamveer Singh</span>
+</h1>
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=end-9214&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=end-9214&theme=dark&hide_border=false" /> 
-</td>
+  <em>Aspiring Machine Learning Engineer | AI Enthusiast | Backend Developer</em>
+</p>
 
-<td width="50%" align="center">
+<!-- Horizontal Divider (Gradient) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=end-9214&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<!-- About Me Section -->
+<h2 align="center">About Me 🙋‍♂️</h2>
+<p align="center">
+  I’m a passionate <strong>Machine Learning and AI student</strong> currently pursuing my B.Tech at Vivekananda Institute of Professional Studies, New Delhi. 
+  My interests revolve around <strong>AI model deployment, NLP, backend development</strong>, and creating solutions that blend cutting-edge machine learning techniques 
+  with real-world applications.
+</p>
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=end-9214&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+<!-- Tech Stack Icons -->
+<h2 align="center">Tech Stack 👨‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,linux,python,pytorch,tensorflow,c,css,html,javascript,react,vscode,mlflow,opencv&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,django,flutter,html,css,javascript,fastapi,mongodb,postgresql,docker,linux,git&perline=7" />
   </a>
 </p>
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
+<!-- Stats Section with Style -->
+<h2 align="center">GitHub Stats 📊</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/karamveer-singh-894699257/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/end_9214/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=end-9214&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=end-9214&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
+<!-- Trophy Section -->
+<h2 align="center">Achievements 🏆</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=end-9214&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
+<!-- Quote Section -->
+<h2 align="center">Quote I Live By 💡</h2>
+<p align="center">
+  <em>“Machine learning is the science of getting computers to act without being explicitly programmed.” - Andrew Ng</em>
+</p>
 
+<!-- Projects Section -->
+<h2 align="center">Recent Projects 🚀</h2>
+<ul align="center" style="list-style-type:none;">
+  <li><strong>SeaSense India Mobile App</strong> - Helping tourists find suitable beach activities with real-time alerts using ML and ocean data analysis.</li>
+  <li><strong>Attack Surface Management (Internship)</strong> - Automating security tasks with Django and NLP, streamlining vulnerability detection processes.</li>
+  <li><strong>Intelligent Library Management System</strong> - Automating book check-in/out using OCR and barcode scanning.</li>
+</ul>
 
-<!--profile visit count-->
+<!-- Connect with Me Section -->
+<h2 align="center">Connect with Me 🤝</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/karamveer-singh-894699257/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="https://github.com/end-9214" target="_blank">
+    <img src="https://user-images.githubusercontent.com/91206733/136007389-a15bc22a-7d27-4787-8d42-e8b627a2fef7.png" alt="GitHub" height="50" width="50" />
+  </a>
+  <a href="https://www.instagram.com/end_9214/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
+  </a>
+</p>
+
+<!-- Profile Visit Counter -->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=end-9214&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+  <img src="https://visitcount.itsvg.in/api?id=end-9214&icon=0&color=6" alt="Profile Visit Count" />
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Footer Divider (Gradient) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
