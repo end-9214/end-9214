@@ -1,4 +1,4 @@
-<!-- Stylish Header with Name -->
+<!-- Stylish Header with Name (Animated) -->
 <h1 align="center">
   Hi 👋, I'm <span style="color:#00A4EF">Karamveer Singh</span>
 </h1>
@@ -39,12 +39,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=end-9214&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
-<!-- Quote Section -->
-<h2 align="center">Quote I Live By 💡</h2>
-<p align="center">
-  <em>“Machine learning is the science of getting computers to act without being explicitly programmed.” - Andrew Ng</em>
-</p>
-
 <!-- Projects Section -->
 <h2 align="center">Recent Projects 🚀</h2>
 <ul align="center" style="list-style-type:none;">
@@ -52,6 +46,17 @@
   <li><strong>Attack Surface Management (Internship)</strong> - Automating security tasks with Django and NLP, streamlining vulnerability detection processes.</li>
   <li><strong>Intelligent Library Management System</strong> - Automating book check-in/out using OCR and barcode scanning.</li>
 </ul>
+
+<!-- Gaming Section -->
+<h2 align="center">What I Do for Fun 🎮</h2>
+<p align="center">
+  When I'm not diving into machine learning, you'll find me exploring immersive game worlds like <strong>Cyberpunk 2077</strong>, 
+  <strong>The Witcher</strong>, <strong>God of War</strong>, and <strong>Call of Duty</strong>. 
+  I love playing single-player and multiplayer games alike!
+</p>
+<p align="center">
+  <em>"There is peace even in the city filled with chaos." - Cyberpunk 2077</em>
+</p>
 
 <!-- Connect with Me Section -->
 <h2 align="center">Connect with Me 🤝</h2>
