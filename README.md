@@ -1,81 +1,80 @@
-<!-- Stylish Header with Name (Animated) -->
+<!-- Modern Header with Dynamic Typing -->
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00A4EF">Karamveer Singh</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=14B8A6&center=true&vCenter=true&width=460&lines=Karamveer+Singh;ML+Engineer+%7C+AI+Systems+Developer;B.Tech+'26" alt="Professional Header" />
 </h1>
+
+<!-- Core Competencies Grid -->
+<h2 align="center">🔍 Core Competencies</h2>
 <p align="center">
-  <em>Aspiring Machine Learning Engineer | AI Enthusiast | Backend Developer</em>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-14B8A6?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/-NLP%20Pipelines-0EA5E9?style=flat-square&logo=huggingface" />
+  <img src="https://img.shields.io/badge/-Backend%20Systems-6366F1?style=flat-square&logo=django" />
 </p>
 
-<!-- Horizontal Divider (Gradient) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- About Me Section -->
-<h2 align="center">About Me 🙋‍♂️</h2>
-<p align="center">
-  I’m a passionate <strong>Machine Learning and AI student</strong> currently pursuing my B.Tech at Vivekananda Institute of Professional Studies, New Delhi. 
-  My interests revolve around <strong>AI model deployment, NLP, backend development</strong>, and creating solutions that blend cutting-edge machine learning techniques 
-  with real-world applications.
-</p>
-
-<!-- Tech Stack Icons -->
-<h2 align="center">Tech Stack 👨‍💻</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,django,flutter,html,css,javascript,fastapi,mongodb,postgresql,docker,linux,git&perline=7" />
-  </a>
-</p>
-
-<!-- Stats Section with Style -->
-<h2 align="center">GitHub Stats 📊</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=end-9214&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=end-9214&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<!-- Trophy Section -->
-<h2 align="center">Achievements 🏆</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=end-9214&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-<!-- Projects Section -->
-<h2 align="center">Recent Projects 🚀</h2>
-<ul align="center" style="list-style-type:none;">
-  <li><strong>SeaSense India Mobile App</strong> - Helping tourists find suitable beach activities with real-time alerts using ML and ocean data analysis.</li>
-  <li><strong>Attack Surface Management (Internship)</strong> - Automating security tasks with Django and NLP, streamlining vulnerability detection processes.</li>
-  <li><strong>Intelligent Library Management System</strong> - Automating book check-in/out using OCR and barcode scanning.</li>
-</ul>
-
-<!-- Gaming Section -->
-<h2 align="center">What I Do for Fun 🎮</h2>
-<p align="center">
-  When I'm not diving into machine learning, you'll find me exploring immersive game worlds like <strong>Cyberpunk 2077</strong>, 
-  <strong>The Witcher</strong>, <strong>God of War</strong>, and <strong>Call of Duty</strong>. 
-  I love playing single-player and multiplayer games alike!
-</p>
-<p align="center">
-  <em>"There is peace even in the city filled with chaos." - Cyberpunk 2077</em>
-</p>
-
-<!-- Connect with Me Section -->
-<h2 align="center">Connect with Me 🤝</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/karamveer-singh-894699257/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
-  </a>
-  <a href="https://github.com/end-9214" target="_blank">
-    <img src="https://user-images.githubusercontent.com/91206733/136007389-a15bc22a-7d27-4787-8d42-e8b627a2fef7.png" alt="GitHub" height="50" width="50" />
-  </a>
-  <a href="https://www.instagram.com/end_9214/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
-  </a>
-</p>
-
-<!-- Profile Visit Counter -->
+<!-- Technical Proficiency Section -->
+<h2 align="center">🛠️ Technical Arsenal</h2>
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=end-9214&icon=0&color=6" alt="Profile Visit Count" />
+  <table>
+    <tr>
+      <td><strong>ML Frameworks</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch" />
+        <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Django-092E20?logo=django" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi" />
+        <img src="https://img.shields.io/badge/REST%20APIs-FF6CAB?logo=postman" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Footer Divider (Gradient) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- Professional Experience -->
+<h2 align="center">💻 Professional Journey</h2>
+<div align="center">
+  <h3>Machine Learning Intern @ HaxSploit</h3>
+  <p>June 2024 - Present</p>
+  <ul align="left" style="display: inline-block; text-align: left;">
+    <li>Developing NLP solutions for automated vulnerability detection</li>
+    <li>Building Django-powered backend systems for security automation</li>
+    <li>Implementing Hugging Face Transformer models in production</li>
+  </ul>
+</div>
+
+<!-- Academic Background -->
+<h2 align="center">🎓 Academic Pursuits</h2>
+<p align="center">
+  B.Tech in Computer Science & Engineering<br>
+  Vivekananda Institute of Professional Studies, New Delhi<br>
+  <em>2022 - 2026 (Expected)</em><br>
+  Relevant Coursework: Machine Learning, NLP, Distributed Systems, DBMS
+</p>
+
+<!-- Professional Network -->
+<h2 align="center">🌐 Let's Collaborate</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/karamveer-singh-894699257/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:karamveersingh2003111@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/end-9214">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Subtle Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
