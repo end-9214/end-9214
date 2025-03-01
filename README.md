@@ -45,7 +45,7 @@
 <h2 align="center">💻 Professional Journey</h2>
 <div align="center">
   <h3>Machine Learning Intern @ HaxSploit</h3>
-  <p>June 2024 - Present</p>
+  <p>June 2024 - September 2024</p>
   <ul align="left" style="display: inline-block; text-align: left;">
     <li>Developing NLP solutions for automated vulnerability detection</li>
     <li>Building Django-powered backend systems for security automation</li>
